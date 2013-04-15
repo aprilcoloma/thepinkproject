@@ -1,1 +1,1 @@
-alert("The Pink Project");
+alert("Hello World! The Pink Project");
